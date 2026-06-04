@@ -1,4 +1,4 @@
-NORTHFIELD UNIVERSITY — FACULTY HANDBOOK 2024–25
+MINDSPROUT DEMO UNIVERSITY — FACULTY HANDBOOK 2026–27
 =================================================
 
 SECTION 1: FACULTY CADRE & PAY SCALES
@@ -65,6 +65,6 @@ SECTION 6: ACADEMIC RESPONSIBILITIES
 - Syllabus completion certificate: submit to HOD at semester end
 
 SECTION 7: FACULTY RESEARCH PORTAL
-Access: research.northfield.edu.in | Login: faculty ID + NF password
+Access: research.mindsprout.edu.in | Login: faculty ID + NF password
 Features: grant management, publication tracker, lab booking, collaboration network
 Funded projects database (active): PI can view, co-PI can request access
