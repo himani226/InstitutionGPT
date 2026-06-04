@@ -1,4 +1,4 @@
-NORTHFIELD UNIVERSITY — ADMINISTRATIVE POLICIES 2026–27
+MINDSPROUT DEMO UNIVERSITY — ADMINISTRATIVE POLICIES 2026–27
 ========================================================
 
 SECTION 1: RECORDS & CERTIFICATES
@@ -17,16 +17,16 @@ Processing time and fees:
   ─────────────────────────────────────────────────
 
 Urgent processing (2× fee): available for bonafide, character, transcripts only
-Apply online: erp.northfield.edu.in → My Applications → Certificate Request
+Apply online: erp.mindsprout.edu.in → My Applications → Certificate Request
 Physical collection: window 3, Registrar's office, 10 AM – 3 PM weekdays
 
 SECTION 2: IT & PORTAL ACCESS
-Student ERP portal:  erp.northfield.edu.in
+Student ERP portal:  erp.mindsprout.edu.in
   - View attendance, marks, fee receipts, exam schedule, results
   - Default password: NF + roll number (change on first login)
 
 Faculty ERP:         faculty.northfield.edu.in
-LMS (Moodle):        lms.northfield.edu.in (courses, assignments, grade book)
+LMS (Moodle):        lms.mindsprout.edu.in (courses, assignments, grade book)
 Email:               All students get @student.mindsprout.edu.in
                      All faculty get @mindsprout.edu.in (Google Workspace)
 WiFi:                SSID "NF-Campus" | Login with student/faculty ID + password
@@ -44,7 +44,7 @@ All UG major projects and PG dissertations must pass Turnitin check:
 
 SECTION 4: TRANSPORT & PARKING
 Bus routes: 12 routes covering major areas of the city and suburbs
-Route schedule: transport.northfield.edu.in | Updated each semester
+Route schedule: transport.mindsprout.edu.in | Updated each semester
 Bus pass: Rs 1,500/year (must carry pass + ID; spot check by conductors)
 Parking:
   Faculty/Staff: Parking Zone A (near Admin block) — sticker required from security
@@ -70,5 +70,5 @@ Security control room:   Ext. 100 (24×7)
 Medical emergency:       Ext. 999 or +91-97XXX-00000
 Fire:                    Ext. 101
 IT emergency:            Ext. 102
-Women's helpline (ICC):  Ext. 200 | icc@northfield.edu.in
+Women's helpline (ICC):  Ext. 200 | icc@mindsprout.edu.in
 External police:          Dial 112
