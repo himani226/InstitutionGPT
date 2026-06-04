@@ -1,4 +1,4 @@
-NORTHFIELD UNIVERSITY — ADMINISTRATIVE POLICIES 2024–25
+NORTHFIELD UNIVERSITY — ADMINISTRATIVE POLICIES 2026–27
 ========================================================
 
 SECTION 1: RECORDS & CERTIFICATES
@@ -27,11 +27,11 @@ Student ERP portal:  erp.northfield.edu.in
 
 Faculty ERP:         faculty.northfield.edu.in
 LMS (Moodle):        lms.northfield.edu.in (courses, assignments, grade book)
-Email:               All students get @student.northfield.edu.in
-                     All faculty get @northfield.edu.in (Google Workspace)
+Email:               All students get @student.mindsprout.edu.in
+                     All faculty get @mindsprout.edu.in (Google Workspace)
 WiFi:                SSID "NF-Campus" | Login with student/faculty ID + password
 Cloud storage:       50 GB Google Drive per account (Google Workspace edu)
-Password reset:      IT helpdesk, Room 12, Computer Centre | ithelpdesk@northfield.edu.in
+Password reset:      IT helpdesk, Room 12, Computer Centre | ithelpdesk@mindsprout.edu.in
 
 SECTION 3: ANTI-PLAGIARISM POLICY
 All UG major projects and PG dissertations must pass Turnitin check:
