@@ -1,51 +1,51 @@
-NORTHFIELD UNIVERSITY — ACADEMIC CALENDAR 2024–25
+NORTHFIELD UNIVERSITY — ACADEMIC CALENDAR 2026–27
 ==================================================
 
-ODD SEMESTER (July 2024 – December 2024)
+ODD SEMESTER (July 2026 – December 2026)
 ─────────────────────────────────────────
-01 July 2024      Classes commence (Sem 1, 3, 5, 7 + new PG)
-08 July 2024      Last date for late admission (with fine)
-15 July 2024      Fee payment deadline (odd semester)
-01 Aug 2024       Internal Assessment I begins (Cycle Tests)
-31 Aug 2024       Last date to withdraw from a course
-05 Sep 2024       Teachers' Day — cultural programme, no regular classes
-16 Sep 2024       Mid-semester exams begin
-27 Sep 2024       Mid-semester exams end / results declared
-02 Oct 2024       Gandhi Jayanti — national holiday
-01 Nov 2024       Internal Assessment II begins
-12 Nov 2024       Diwali holidays (12–16 Nov, 5 days)
-18 Nov 2024       Online lectures continue during short holidays
-20 Nov 2024       Last day of instruction
-22 Nov 2024       Study leave begins
-02 Dec 2024       End-semester exams begin
-20 Dec 2024       End-semester exams end
-24 Dec 2024       Results declared on portal
-25 Dec 2024 –
-01 Jan 2025       Winter break
+01 July 2026      Classes commence (Sem 1, 3, 5, 7 + new PG)
+08 July 2026      Last date for late admission (with fine)
+15 July 2026      Fee payment deadline (odd semester)
+01 Aug 2026       Internal Assessment I begins (Cycle Tests)
+31 Aug 2026       Last date to withdraw from a course
+05 Sep 2026       Teachers' Day — cultural programme, no regular classes
+16 Sep 2026       Mid-semester exams begin
+27 Sep 2026       Mid-semester exams end / results declared
+02 Oct 2026       Gandhi Jayanti — national holiday
+01 Nov 2026       Internal Assessment II begins
+12 Nov 2026       Diwali holidays (12–16 Nov, 5 days)
+18 Nov 2026       Online lectures continue during short holidays
+20 Nov 2026       Last day of instruction
+22 Nov 2026       Study leave begins
+02 Dec 2026       End-semester exams begin
+20 Dec 2026       End-semester exams end
+24 Dec 2026       Results declared on portal
+25 Dec 2026 –
+01 Jan 2027       Winter break
 
-EVEN SEMESTER (January 2025 – June 2025)
+EVEN SEMESTER (January 2026 – June 2026)
 ─────────────────────────────────────────
-06 Jan 2025       Classes commence (Sem 2, 4, 6, 8)
-10 Jan 2025       Fee payment deadline (even semester)
-26 Jan 2025       Republic Day — national holiday
-03 Feb 2025       Internal Assessment I begins
-28 Feb 2025       Last date to withdraw from a course
-10 Mar 2025       Mid-semester exams begin
-21 Mar 2025       Mid-semester exams end / results declared
-14 Apr 2025       Ambedkar Jayanti — holiday
-18 Apr 2025       Good Friday — holiday
-01 May 2025       Labour Day — holiday
-05 May 2025       Internal Assessment II begins
-15 May 2025       Last day of instruction
-16 May 2025       Study leave begins
-22 May 2025       End-semester exams begin
-10 Jun 2025       End-semester exams end
-16 Jun 2025       Results declared
-17 Jun 2025 –
-30 Jun 2025       Summer break
+06 Jan 2026       Classes commence (Sem 2, 4, 6, 8)
+10 Jan 2026       Fee payment deadline (even semester)
+26 Jan 2026       Republic Day — national holiday
+03 Feb 2026       Internal Assessment I begins
+28 Feb 2026       Last date to withdraw from a course
+10 Mar 2026       Mid-semester exams begin
+21 Mar 2026       Mid-semester exams end / results declared
+14 Apr 2026       Ambedkar Jayanti — holiday
+18 Apr 2026       Good Friday — holiday
+01 May 2026       Labour Day — holiday
+05 May 2026       Internal Assessment II begins
+15 May 2026       Last day of instruction
+16 May 2026       Study leave begins
+22 May 2026       End-semester exams begin
+10 Jun 2026       End-semester exams end
+16 Jun 2026       Results declared
+17 Jun 2026 –
+30 Jun 2026       Summer break
 
 SUPPLEMENTARY / BACK-PAPER EXAMS
-July 2025:        Supplementary exams for students with F grade (registration required)
+July 2026:        Supplementary exams for students with F grade (registration required)
 Registration fee: Rs 500 per paper
 Maximum attempts:  3 attempts per paper allowed (after that, repeat semester)
 
@@ -62,7 +62,7 @@ Time        Monday      Tuesday     Wednesday   Thursday    Friday
 16:00–17:00 Sports/Club Sports/Club Sports/Club Sports/Club Sports/Club
 ─────────────────────────────────────────────────────────────────────────────
 
-EXAM SCHEDULE — End Semester (December 2024)
+EXAM SCHEDULE — End Semester (December 2026)
 ────────────────────────────────────────────
 02 Dec  CS501 Machine Learning         10:00 AM – 01:00 PM   Hall A
 04 Dec  CS502 Web Technologies         10:00 AM – 01:00 PM   Hall B
