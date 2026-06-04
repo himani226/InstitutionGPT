@@ -1,0 +1,124 @@
+NORTHFIELD UNIVERSITY — COURSE CATALOG 2024–25
+===============================================
+
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING (CSE)
+
+B.Tech CSE — 4 Years (8 Semesters)
+
+Semester 1
+  CS101  Programming in Python                   4 credits
+  CS102  Mathematics I (Calculus & Linear Algebra) 4 credits
+  CS103  Digital Logic Design                    3 credits
+  CS104  Communication Skills                    2 credits
+  CS105  Engineering Physics                     3 credits
+  CS106  Python Lab                              1 credit
+  CS107  Physics Lab                             1 credit
+
+Semester 2
+  CS201  Data Structures                         4 credits
+  CS202  Mathematics II (Probability & Statistics) 4 credits
+  CS203  Computer Organisation                   3 credits
+  CS204  Discrete Mathematics                    3 credits
+  CS205  Environmental Science                   2 credits
+  CS206  Data Structures Lab                     2 credits
+
+Semester 3
+  CS301  Algorithms & Complexity                 4 credits
+  CS302  Object-Oriented Programming (Java)      4 credits
+  CS303  Database Management Systems             3 credits
+  CS304  Operating Systems                       4 credits
+  CS305  OOP Lab                                 2 credits
+  CS306  DBMS Lab                                2 credits
+
+Semester 4
+  CS401  Computer Networks                       4 credits
+  CS402  Software Engineering                    3 credits
+  CS403  Theory of Computation                   4 credits
+  CS404  Elective I                              3 credits
+  CS405  Networks Lab                            2 credits
+  CS406  Mini Project I                          2 credits
+
+Semester 5
+  CS501  Machine Learning                        4 credits
+  CS502  Web Technologies                        3 credits
+  CS503  Compiler Design                         3 credits
+  CS504  Elective II                             3 credits
+  CS505  ML Lab                                  2 credits
+  CS506  Web Dev Lab                             2 credits
+
+Semester 6
+  CS601  Artificial Intelligence                 4 credits
+  CS602  Cloud Computing                         3 credits
+  CS603  Information Security                    3 credits
+  CS604  Elective III                            3 credits
+  CS605  AI Lab                                  2 credits
+  CS606  Mini Project II                         3 credits
+
+Semester 7
+  CS701  Deep Learning                           4 credits
+  CS702  Natural Language Processing             3 credits
+  CS703  Elective IV                             3 credits
+  CS704  Internship (industry, 6 weeks)          4 credits
+
+Semester 8
+  CS801  Major Project (Dissertation)           12 credits
+  CS802  Elective V                              3 credits
+  CS803  Professional Ethics                     2 credits
+
+ELECTIVE POOL (students pick from this list each semester)
+  CSE-E01  Blockchain Technology
+  CSE-E02  Internet of Things
+  CSE-E03  Quantum Computing
+  CSE-E04  Embedded Systems
+  CSE-E05  Data Warehousing & Mining
+  CSE-E06  Mobile Application Development
+  CSE-E07  Computer Vision
+  CSE-E08  Augmented & Virtual Reality
+  CSE-E09  DevOps & Agile Practices
+  CSE-E10  Bioinformatics
+
+DEPARTMENT OF MANAGEMENT (MBA)
+
+MBA — 2 Years (4 Semesters)
+
+Semester 1
+  MBA101  Management Concepts & OB             4 credits
+  MBA102  Financial Accounting                 4 credits
+  MBA103  Marketing Management                 4 credits
+  MBA104  Business Statistics                  4 credits
+  MBA105  Business Communication               3 credits
+  MBA106  IT for Managers                      3 credits
+
+Semester 2
+  MBA201  Financial Management                 4 credits
+  MBA202  Human Resource Management            4 credits
+  MBA203  Operations Management                4 credits
+  MBA204  Research Methodology                 4 credits
+  MBA205  Managerial Economics                 4 credits
+  MBA206  Summer Internship (8 weeks)          4 credits
+
+Semester 3 (Specialisation — choose one)
+  Finance Track:    MBA301F, MBA302F, MBA303F
+  Marketing Track:  MBA301M, MBA302M, MBA303M
+  HR Track:         MBA301H, MBA302H, MBA303H
+  MBA304  Strategic Management                 4 credits
+
+Semester 4
+  MBA401  Entrepreneurship & Innovation        4 credits
+  MBA402  Business Law & Ethics                3 credits
+  MBA403  Major Research Project              12 credits
+  MBA404  Elective (Industry Specialisation)   4 credits
+
+GRADING SYSTEM (all programmes)
+  O  (Outstanding):   90–100   →  10 grade points
+  A+ (Excellent):     80–89    →   9 grade points
+  A  (Very Good):     70–79    →   8 grade points
+  B+ (Good):          60–69    →   7 grade points
+  B  (Above Average): 55–59    →   6 grade points
+  C  (Average):       50–54    →   5 grade points
+  F  (Fail):          Below 50 →   0 grade points
+
+Minimum CGPA to pass semester: 5.0
+Minimum CGPA for degree award: 5.0
+Distinction: CGPA 8.0 and above with no backlogs
+First class:  CGPA 6.5 and above

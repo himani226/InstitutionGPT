@@ -1,0 +1,70 @@
+NORTHFIELD UNIVERSITY — FACULTY HANDBOOK 2024–25
+=================================================
+
+SECTION 1: FACULTY CADRE & PAY SCALES
+Designation            Pay Scale (7th CPC)     Minimum Experience
+─────────────────────────────────────────────────────────────────
+Assistant Professor     Rs 57,700 – 98,000      Ph.D or NET qualified
+Associate Professor     Rs 1,31,400 – 2,17,100  8 years total teaching
+Professor               Rs 1,44,200 – 2,18,200  10 years post-PhD
+Distinguished Prof      Rs 1,82,200+            Special appointment
+─────────────────────────────────────────────────────────────────
+
+Allowances: HRA (24% for city), TA/DA as per university norms, medical allowance
+Gratuity: as per Gratuity Act; provident fund: 12% employer contribution
+
+SECTION 2: TEACHING LOAD
+Assistant Professor:  14 hours/week (contact hours)
+Associate Professor:  12 hours/week
+Professor:            10 hours/week
+All faculty must hold minimum 2 student consultation hours per week (posted outside office)
+
+SECTION 3: RESEARCH & PUBLICATION POLICY
+Minimum annual targets (Assistant Professor):
+  - 1 journal paper (Scopus/SCI indexed) per year
+  - Attend / present at minimum 1 national conference
+  - Apply for minimum 1 funded project in 2 years
+
+Research incentives:
+  - SCI/Scopus Q1 paper:   Rs 25,000 cash award
+  - SCI/Scopus Q2 paper:   Rs 15,000 cash award
+  - Patent granted:        Rs 50,000 + 50% revenue sharing
+  - National conference:   Full TA/DA + Rs 5,000
+  - International conf:    Full TA/DA + Rs 15,000 + 5 duty leave days
+  - Funded project (PI):   10% overhead to personal research account
+
+Research labs available:
+  - AI & ML Lab (GPU cluster: 4× A100 + 8× RTX 4090)
+  - IoT & Embedded Systems Lab
+  - VLSI Design Lab
+  - Materials Science Lab
+  - Bioinformatics & Genomics Lab
+  - Business Analytics & Finance Lab
+
+SECTION 4: LEAVE POLICY
+Earned leave:       30 days per year (max 60 days accumulation)
+Casual leave:       12 days per year (max 3 consecutive days)
+Medical leave:      15 days per year (certificate required for >2 days)
+Maternity leave:    180 days (as per Maternity Benefit Act 2017)
+Paternity leave:    15 days
+Study leave:        Up to 2 years for PhD (after 5 years service, once in career)
+Academic duty leave: As required (conference/workshop/exam duty)
+
+SECTION 5: PROFESSIONAL DEVELOPMENT
+FDP (Faculty Development Programme): each faculty must attend minimum 1 FDP per year
+Sponsored: university pays registration + TA/DA for approved programmes
+Online certifications (Coursera/NPTEL): reimbursed up to Rs 5,000/year
+Sabbatical leave: 1 year at full pay after 7 years (for research/industry attachment)
+
+SECTION 6: ACADEMIC RESPONSIBILITIES
+- Upload course materials to LMS (Moodle) before semester start
+- Upload attendance within 24 hours of each class on ERP portal
+- Mid-semester marks: submit within 3 days of test completion
+- End-semester marks: submit within 48 hours of last exam
+- Project evaluations: publish schedule at least 7 days in advance
+- Syllabus completion certificate: submit to HOD at semester end
+
+SECTION 7: FACULTY RESEARCH PORTAL
+Access: research.northfield.edu.in | Login: faculty ID + NF password
+Features: grant management, publication tracker, lab booking, collaboration network
+Funded projects database (active): PI can view, co-PI can request access

@@ -1,0 +1,53 @@
+<!--
+  InstitutionGPT — Demo embed for MindSprout Technologies
+  Drop this snippet anywhere on your website.
+  Replace the src URL with your actual Vercel deployment URL.
+-->
+
+<!-- Option A: Floating card embed (recommended for project showcase) -->
+<section style="
+  max-width: 900px;
+  margin: 60px auto;
+  font-family: system-ui, sans-serif;
+">
+  <h2 style="font-size: 22px; font-weight: 600; margin-bottom: 6px; color: #0f172a;">
+    InstitutionGPT — Live Demo
+  </h2>
+  <p style="font-size: 14px; color: #64748b; margin-bottom: 20px;">
+    Agentic AI assistant for universities · RAG + Multi-agent · Powered by Groq Llama 3
+  </p>
+
+  <div style="
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.12), 0 0 0 1px rgba(0,0,0,0.06);
+    background: #0f172a;
+  ">
+    <iframe
+      src="https://institutiongpt.onrender.com"
+      width="100%"
+      height="680"
+      frameborder="0"
+      allow="clipboard-write"
+      loading="lazy"
+      title="InstitutionGPT — AI University Assistant Demo"
+      style="display: block;"
+    ></iframe>
+  </div>
+
+  <p style="font-size: 12px; color: #94a3b8; margin-top: 12px; text-align: center;">
+    Built with FastAPI · ChromaDB · Groq Llama 3 · React · Deployed on Render + Vercel
+  </p>
+</section>
+
+
+<!--
+  Option B: Full-page embed (for a dedicated /demos/institutiongpt route)
+  Add this to your page's <style> and replace <body> content.
+
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+    iframe { width: 100%; height: 100vh; border: none; display: block; }
+  </style>
+  <iframe src="https://YOUR-PROJECT.vercel.app" title="InstitutionGPT"></iframe>
+-->

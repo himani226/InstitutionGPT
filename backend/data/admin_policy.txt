@@ -1,0 +1,74 @@
+NORTHFIELD UNIVERSITY — ADMINISTRATIVE POLICIES 2024–25
+========================================================
+
+SECTION 1: RECORDS & CERTIFICATES
+Official certificates issued by Registrar's office, Room 105, Admin Block
+Processing time and fees:
+  Document                         Time       Fee
+  ─────────────────────────────────────────────────
+  Bonafide certificate             Same day   Free
+  Migration certificate            3 days     Rs 200
+  Character certificate            2 days     Rs 100
+  Provisional degree certificate   7 days     Rs 500
+  Official transcript              5 days     Rs 300/copy
+  Degree certificate (convocation) On date    Free
+  Duplicate degree certificate     15 days    Rs 1,000
+  Medium of instruction cert.      3 days     Rs 200
+  ─────────────────────────────────────────────────
+
+Urgent processing (2× fee): available for bonafide, character, transcripts only
+Apply online: erp.northfield.edu.in → My Applications → Certificate Request
+Physical collection: window 3, Registrar's office, 10 AM – 3 PM weekdays
+
+SECTION 2: IT & PORTAL ACCESS
+Student ERP portal:  erp.northfield.edu.in
+  - View attendance, marks, fee receipts, exam schedule, results
+  - Default password: NF + roll number (change on first login)
+
+Faculty ERP:         faculty.northfield.edu.in
+LMS (Moodle):        lms.northfield.edu.in (courses, assignments, grade book)
+Email:               All students get @student.northfield.edu.in
+                     All faculty get @northfield.edu.in (Google Workspace)
+WiFi:                SSID "NF-Campus" | Login with student/faculty ID + password
+Cloud storage:       50 GB Google Drive per account (Google Workspace edu)
+Password reset:      IT helpdesk, Room 12, Computer Centre | ithelpdesk@northfield.edu.in
+
+SECTION 3: ANTI-PLAGIARISM POLICY
+All UG major projects and PG dissertations must pass Turnitin check:
+  Acceptable similarity index: below 15% overall, below 5% from any single source
+  Submission: upload via lms.northfield.edu.in (faculty will initiate check)
+  Plagiarism penalty:
+    First offence (15–30%):   revision and resubmission
+    Second offence (>30%):    fail the paper + academic warning letter
+    Third offence / deliberate: expulsion from programme
+
+SECTION 4: TRANSPORT & PARKING
+Bus routes: 12 routes covering major areas of the city and suburbs
+Route schedule: transport.northfield.edu.in | Updated each semester
+Bus pass: Rs 1,500/year (must carry pass + ID; spot check by conductors)
+Parking:
+  Faculty/Staff: Parking Zone A (near Admin block) — sticker required from security
+  Students:      Parking Zone C (rear campus) — two-wheelers only
+  No vehicle entry for students without valid parking permit (fine Rs 500)
+
+SECTION 5: PROCUREMENT & VENDOR POLICY
+All purchases above Rs 10,000 require three quotations
+Above Rs 1 lakh: purchase committee approval required
+Above Rs 5 lakh: tender process (published on official website)
+Lab equipment indenting: submit to HOD by 31 October for next year's budget
+Travel reimbursement: submit bills within 10 days of return (Form F-12 on ERP)
+
+SECTION 6: DATA PRIVACY
+Student data collected: name, contact, academic records, biometric (attendance)
+Data not shared with third parties without consent
+FERPA-equivalent protections apply under university by-laws
+Data retention: academic records permanent; personal data 5 years post-graduation
+Requests for own data: file RTI-equivalent form at registrar's office
+
+SECTION 7: EMERGENCY CONTACTS
+Security control room:   Ext. 100 (24×7)
+Medical emergency:       Ext. 999 or +91-97XXX-00000
+Fire:                    Ext. 101
+IT emergency:            Ext. 102
+Women's helpline (ICC):  Ext. 200 | icc@northfield.edu.in
+External police:          Dial 112

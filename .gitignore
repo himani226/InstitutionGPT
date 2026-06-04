@@ -1,0 +1,23 @@
+# ── Python ─────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Secrets — NEVER commit
+backend/.env
+
+# ── Node ────────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# ── OS ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── NOTE: backend/chroma_db/ is intentionally NOT ignored.
+# We commit the pre-built vector store so Render never needs
+# to re-ingest on cold start.

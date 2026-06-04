@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: institutiongpt-api
+    rootDir: backend          # Render uses backend/ as the Docker build context
+    env: docker
+    plan: free
+    dockerfilePath: Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true          # redeploy automatically on every git push
+
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false           # you enter this manually in the Render dashboard
